@@ -1,13 +1,23 @@
-# 👋 Hi there, I'm Ahmed Menbari  
+## 👋 Hi there, I'm Ahmed Menbari  
 
-💻 Tech Entrepreneur | 🏗 Software Architect | 🚀 Passionate about Digital Health & e-Health Innovations  
+💻 Software Developer
 
----
+I’m a software developer with 10+ years of coding adventures. I’ve built everything from sleek front-ends to complex back-end systems, and I still get excited every time I hit “run” and see things come to life.
 
-## 🧑‍💻 About Me
-- 10+ years of experience in building scalable, high-performance systems  
+I love sharing knowledge, collaborating on open-source projects, and experimenting with new tools and frameworks. Coding for me isn’t just a job—it’s a craft, a playground, and sometimes a puzzle I can’t wait to solve.
 
----
+🔧 What I enjoy working on:
+
+Full-stack development
+
+Scalable apps & cloud technologies
+
+Clean, maintainable code
+
+Open-source projects & community
+
+🚀 Always curious, always learning. Let’s build something awesome together!
+
 
 ## 💼 Experience
 <h3 align="left">Languages and Tools:</h3>
